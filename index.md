@@ -1,3 +1,7 @@
 ---
-title: Welcome to my blog!
+# Brian's Place
+
+## Welcome to my blog!
+
+#### "This is a my fortress. This is my page."
 ---
